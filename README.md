@@ -11,6 +11,11 @@ I run a **Proxmox-based homelab** where I experiment with various DevOps tools, 
 - **Ansible** for configuration management
 - **Terraform** for automated provisioning
 
+## 🏠 My Homelab Repositories
+- [homelab-packer](https://github.com/gabbyti/homelab-packer) - Automating VM image builds with **Packer**
+- [homelab-terraform](https://github.com/gabbyti/homelab-terraform) - Infrastructure as Code using **Terraform**
+- [ansible_homelab](https://github.com/gabbyti/ansible_homelab) - Configuration management with **Ansible**
+
 ## 🌱 I’m currently learning
 - **Advanced Kubernetes concepts** including networking, security, and monitoring
 - **Cloud-native tools** like ArgoCD, Helm, and Service Meshes
@@ -34,14 +39,18 @@ I run a **Proxmox-based homelab** where I experiment with various DevOps tools, 
 - **CI/CD:** GitHub Actions, ArgoCD, Jenkins
 
 ## 📫 Get in Touch
-- **Website:** [gabrielibneye.com](https://gabrielibneye.com)
+- **Website:** [gabrielibenye.com](https://gabrielibenye.com)
 - **GitHub:** [@gabbyti](https://github.com/gabbyti)
 - **LinkedIn:** [linkedin.com/in/gabbyti](https://linkedin.com/in/gabbyti)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabbyti&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbyti&layout=compact&theme=radical)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gabbyti&theme=radical)
+
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=gabbyti&theme=radical&margin-w=15)
 
 Let's connect and geek out over DevOps, automation, and infrastructure! 🚀
